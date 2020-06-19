@@ -2,6 +2,10 @@
 
 This project is a to do list on the console. 
 
+## Demo
+
+http://xavierchia.github.io/consoleList
+
 ## Demo Commands
 
 1. list.add('first task');
